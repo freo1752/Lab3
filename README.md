@@ -11,6 +11,7 @@ This lab3 had two objective first is the in class work with simple calc and hell
  Issues  
  - andriod studio exceptions through and not finding librarys
  - making a nested layouts
+ 
  Lessons 
   - nested layouts
   - updating sdk
